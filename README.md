@@ -18,6 +18,7 @@ Este repositorio contiene un microservicio sencillo construido con Flask que cal
    ```
 
 4. Realizar una petición GET a `http://localhost:8000/factorial/<numero>`.
+   (por consola con el comando "curl", ejemplo: "curl http://localhost:8000/factorial/7")
 
 ### Ejemplo de respuesta
 
